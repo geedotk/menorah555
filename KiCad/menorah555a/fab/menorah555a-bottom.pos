@@ -1,0 +1,10 @@
+### Module positions - created on Fri Nov 19 20:24:06 2021 ###
+### Printed by Pcbnew version kicad 5.1.10-88a1d61d58~90~ubuntu20.04.1
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val       Package                    PosX       PosY       Rot  Side
+FID3      Fiducial  Fiducial_1mm_Mask2mm   200.0100   -55.4600    0.0000  bottom
+FID4      Fiducial  Fiducial_1mm_Mask2mm   194.3100  -131.0100    0.0000  bottom
+R30       100k      R_0805_2012Metric      202.6125  -121.4000  180.0000  bottom
+R31       330       R_0805_2012Metric      198.3000  -121.4000    0.0000  bottom
+## End
