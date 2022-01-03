@@ -340,7 +340,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "menorah555.kicad_pro",
+    "filename": "menorah555_main.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -373,7 +373,6 @@
         "microvia_drill": 0.1,
         "name": "SHLD",
         "nets": [
-          "/SHLD",
           "/V5_IN",
           "GND"
         ],
