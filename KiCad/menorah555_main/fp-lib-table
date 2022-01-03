@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "0_menorah555")(type "KiCad")(uri "${KIPRJMOD}/project_libraries/project_footprints.pretty")(options "")(descr ""))
+)
