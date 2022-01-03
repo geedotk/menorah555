@@ -23,7 +23,7 @@ of the 555 to turn on the LED is done with a reed switch. The shamash PCB has a 
 mounted on it to trigger the reed switch and "light" the candle.
 
 ## PCB
-Schematic capture and PCB layout were done in [KiCad](https://www.kicad.org/) 5.1.12.
+Schematic capture and PCB layout were done in [KiCad](https://www.kicad.org/) 6.0.0.
 There is no problem fitting everything on the PCB because the size is dictated more
 by the aesthetics than the component size. In fact, the electrolytic capacitors selected
 are MUCH larger than necessary because they are part of the suggestion of a candle shape.
