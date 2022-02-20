@@ -1,0 +1,9 @@
+### Module positions - created on Sat 19 Feb 2022 07:36:27 PM PST ###
+### Printed by Pcbnew version 6.0.2-378541a8eb~116~ubuntu20.04.1
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val          Package                                        PosX       PosY       Rot  Side
+C19       0.5F_5.5V    CP_Supercap_DGH504Q5R5_Horizontal_narrow   114.2000  -133.3000   90.0000  top
+J3        Plug5.5x2.1  KobiConn_173-5521TIP-EX_power_plug         114.2000  -136.6000   90.0000  top
+LED1      Y_FLCKR_LED  LED_D5.0mm_Horizontal_SMT_O3.81mm          113.7000   -67.8000  180.0000  top
+## End

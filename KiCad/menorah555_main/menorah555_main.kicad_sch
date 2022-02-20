@@ -6231,7 +6231,7 @@
   (symbol (lib_id "power:GND") (at 91.44 226.06 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 2b04795e-1027-4310-a956-b1633bcb750a)
-    (property "Reference" "#PWR?" (id 0) (at 91.44 232.41 0)
+    (property "Reference" "#PWR0103" (id 0) (at 91.44 232.41 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (id 1) (at 91.567 230.4542 0))
@@ -6247,7 +6247,7 @@
   (symbol (lib_id "0_project_symbol_library:SW_DPDT_Nidec_MFS201N-9-Z") (at 91.44 214.63 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 95629a0f-30f0-46d6-99ad-b005fd9dcc25)
-    (property "Reference" "SW?" (id 0) (at 91.44 204.47 0))
+    (property "Reference" "SW9" (id 0) (at 91.44 204.47 0))
     (property "Value" "SW_DPDT" (id 1) (at 99.06 224.79 0))
     (property "Footprint" "0_my_footprints:SW_Nidec_MFS201N-9-Z_DPDT_Straight" (id 2) (at 91.44 209.55 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -6523,7 +6523,7 @@
       (reference "#PWR0102") (unit 1) (value "+5V") (footprint "")
     )
     (path "/2b04795e-1027-4310-a956-b1633bcb750a"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+      (reference "#PWR0103") (unit 1) (value "GND") (footprint "")
     )
     (path "/00000000-0000-0000-0000-000061aca084"
       (reference "C1") (unit 1) (value "10nF") (footprint "Capacitor_SMD:C_0805_2012Metric")
@@ -6778,7 +6778,7 @@
       (reference "SW8") (unit 1) (value "SW_Reed") (footprint "0_my_footprints:SW_SPST_REED_59170-1-S-00-D")
     )
     (path "/95629a0f-30f0-46d6-99ad-b005fd9dcc25"
-      (reference "SW?") (unit 1) (value "SW_DPDT") (footprint "0_my_footprints:SW_Nidec_MFS201N-9-Z_DPDT_Straight")
+      (reference "SW9") (unit 1) (value "SW_DPDT") (footprint "0_my_footprints:SW_Nidec_MFS201N-9-Z_DPDT_Straight")
     )
     (path "/00000000-0000-0000-0000-000061aa0766"
       (reference "U1") (unit 1) (value "TLC555") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
