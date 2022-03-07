@@ -14,7 +14,6 @@
   (layers
     (0 "F.Cu" signal)
     (31 "B.Cu" signal)
-    (34 "B.Paste" user)
     (35 "F.Paste" user)
     (36 "B.SilkS" user "B.Silkscreen")
     (37 "F.SilkS" user "F.Silkscreen")
@@ -25,7 +24,6 @@
     (45 "Margin" user)
     (46 "B.CrtYd" user "B.Courtyard")
     (47 "F.CrtYd" user "F.Courtyard")
-    (48 "B.Fab" user)
     (49 "F.Fab" user)
   )
 
@@ -6465,7 +6463,7 @@
   (gr_arc (start 236.66 128.1) (mid 235.22076 127.573152) (end 234.54 126.2) (layer "F.SilkS") (width 2) (tstamp 0ae859c8-89b8-4227-9f10-430fdae2c6f7))
   (gr_line (start 256.45 61.85) (end 264.6 61.85) (layer "F.SilkS") (width 2) (tstamp 0b2811c7-55f5-4fcc-84c9-3e33f0da5242))
   (gr_arc (start 236.77 128.1) (mid 245.494813 128.401827) (end 254.2 129.06) (layer "F.SilkS") (width 2) (tstamp 1928d111-d20a-49c4-8761-96885073bf94))
-  (gr_arc (start 334.13 218.48) (mid 332.968632 223.032922) (end 328.27 223.06) (layer "F.SilkS") (width 2) (tstamp 1df942bf-a2a1-4aeb-894f-21a914ae5cec))
+  (gr_arc (start 334.13 218.48) (mid 332.968632 223.032921) (end 328.27 223.06) (layer "F.SilkS") (width 2) (tstamp 1df942bf-a2a1-4aeb-894f-21a914ae5cec))
   (gr_arc (start 226.45 126.07) (mid 225.882968 127.654942) (end 224.32 128.28) (layer "F.SilkS") (width 2) (tstamp 27aa94c2-e9b9-48a3-b6c6-a300274e0540))
   (gr_line (start 84.6 122) (end 84.45 183.1) (layer "F.SilkS") (width 2) (tstamp 2fd862e9-db34-40e2-a9bb-aa09460a2702))
   (gr_line (start 264.6 61.85) (end 264.54 128.59) (layer "F.SilkS") (width 2) (tstamp 3000c272-86f0-4915-ae47-e078ef23c49f))
