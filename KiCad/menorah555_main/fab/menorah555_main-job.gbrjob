@@ -5,7 +5,7 @@
       "Application": "Pcbnew",
       "Version": "6.0.2-378541a8eb~116~ubuntu20.04.1"
     },
-    "CreationDate": "2022-02-19T20:17:07-08:00"
+    "CreationDate": "2022-03-06T19:09:15-08:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
@@ -49,11 +49,6 @@
       "FilePolarity": "Positive"
     },
     {
-      "Path": "menorah555_main-B_Paste.gbr",
-      "FileFunction": "SolderPaste,Bot",
-      "FilePolarity": "Positive"
-    },
-    {
       "Path": "menorah555_main-F_Silkscreen.gbr",
       "FileFunction": "Legend,Top",
       "FilePolarity": "Positive"
@@ -82,11 +77,6 @@
       "Path": "menorah555_main-F_Fab.gbr",
       "FileFunction": "AssemblyDrawing,Top",
       "FilePolarity": "Positive"
-    },
-    {
-      "Path": "menorah555_main-B_Fab.gbr",
-      "FileFunction": "AssemblyDrawing,Bot",
-      "FilePolarity": "Positive"
     }
   ],
   "MaterialStackup": [
@@ -100,34 +90,25 @@
     },
     {
       "Type": "SolderMask",
-      "Thickness": 0.01,
       "Name": "Top Solder Mask"
     },
     {
       "Type": "Copper",
-      "Thickness": 0.035,
       "Name": "F.Cu"
     },
     {
       "Type": "Dielectric",
-      "Thickness": 1.51,
       "Material": "FR4",
       "Name": "F.Cu/B.Cu",
       "Notes": "Type: dielectric layer 1 (from F.Cu to B.Cu)"
     },
     {
       "Type": "Copper",
-      "Thickness": 0.035,
       "Name": "B.Cu"
     },
     {
       "Type": "SolderMask",
-      "Thickness": 0.01,
       "Name": "Bottom Solder Mask"
-    },
-    {
-      "Type": "SolderPaste",
-      "Name": "Bottom Solder Paste"
     },
     {
       "Type": "Legend",
